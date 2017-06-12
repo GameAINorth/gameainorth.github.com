@@ -2,6 +2,9 @@
 title: "Introducing: Game AI North!"
 layout: base
 ---
+
+h1. Welcome
+
 It is our pleasure to introduce the very first instalment of the Game AI North conference!
 
 The conference is a two-day community event of learning and professional networking in Copenhagen, Denmark on October 16 and 17 of 2017. The days are comprised of expert game AI talks in the themes of Design, Systems, and Production at the beautiful venue of "ITU":ITU - the IT University of Copenhagen.
@@ -20,7 +23,7 @@ h1. Speak
 
 Would you like to more actively participate by sharing your stories and insights in a community of your peers? Post-mortems / concepts / work in progress on AAA / indie or other relevant work? Please do not hesitate to send us a pitch of your session via the form below.
 
-As a speaker you will of-course receive a free conference ticket with everything included. We are also able to pay your flight to & from Copenhagen and will be inviting you to a speaker dinner held with the organisers the evening before the event.
+As a speaker you will of-course receive a free conference ticket with everything included. We are also able to pay your flight to & from Copenhagen and will be inviting you to a speaker dinner held with the organisers the evening before event start.
 
 p(Button). "Pitch":SessionPitch
 
