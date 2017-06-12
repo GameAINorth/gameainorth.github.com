@@ -23,7 +23,9 @@ p(Button). "Enlist":MailingList
 
 h1. Speak
 
-Would you like to more actively participate by sharing your stories and insights in a community of your peers? Post-mortems / concepts / work in progress on AAA / indie or other relevant work? Please do not hesitate to send us a pitch of your session via the link below.
+Would you like to more actively participate by sharing your stories and insights in a community of your peers? Post-mortems / concepts / work in progress on AAA / indie or other relevant work?
+
+Please do not hesitate to send us a pitch of your session via the link below.
 
 As a speaker you will of-course receive a free conference ticket with everything included. We are also able to pay your flight to & from Copenhagen and will be inviting you to a speaker dinner held with the organisers the evening before event start.
 
