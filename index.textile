@@ -27,6 +27,6 @@ As a speaker you will of-course receive a free conference ticket with everything
 
 p(Button). "Pitch":SessionPitch
 
-[ITU]http://itu.dk
-[MailingList]http://duckduckgo.com
-[SessionPitch]http://duckduckgo.com
+[ITU]https://en.itu.dk
+[MailingList]https://duckduckgo.com
+[SessionPitch]https://duckduckgo.com
