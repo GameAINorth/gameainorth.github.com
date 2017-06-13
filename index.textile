@@ -5,19 +5,19 @@ layout: base
 
 h1. Welcome
 
-It is our pleasure to introduce the very first instalment of the Game AI North conference!
+It is our pleasure to introduce the very first installment of the Game AI North conference!
 
 The conference is a two-day community event of learning and professional networking in Copenhagen, Denmark on October 16 and 17 of 2017. The days are comprised of expert game AI talks in the themes of Design, Systems, and Production at the beautiful venue of "ITU":ITU - the IT University of Copenhagen.
 
-As organisers we are a small group of industry experts in the field of game & -AI development, with organiser experience from events such as Unite, nucl.ai, Nordic Game Jam, and others. Our goal with this event is to help provide a useful anchor for the game AI community in Europe and its neighbours. The event is run non-profit and it is our hope that we can help keep the community stirring and perhaps help bridge to further community events.
+As organizers, we are a small group of industry experts in the field of game & -AI development, with organizer experience from events such as Unite, nucl.ai, Nordic Game Jam, and others. Our goal with this event is to help provide a useful anchor for the game AI community in Europe and its neighbors. The event is run non-profit, and it is our hope that we can help keep the community stirring and perhaps help bridge to further community events.
 
 h1. Attend
 
-The two days hold a full schedule of sessions and include lunch. The programme starts each day at 09:00 with coffee & networking (+ registration on day one) and concludes at approximately 17:00 in the evening.
+The two days hold a full schedule of sessions and include lunch. The program starts each day at 09:00 with coffee & networking (+ registration on day one) and concludes at approximately 17:00 in the evening.
 
-More details will be available as we approach the start of ticket sales. Do be aware that we intend to keep headcount relatively low & focused and so expect tickets to sell out fast.
+More details will be available as we approach the start of ticket sales. Do be aware that we intend to keep headcount relatively small & focused and so expect tickets to sell out fast.
 
-If you wish to stay up to date and be notified when tickets sale start, feel free to sign up for the event mailing list below.
+To stay up-to-date and be notified when tickets go on sale, feel free to sign up for the event mailing list below.
 
 p(Button). "Enlist":MailingList
 
@@ -27,7 +27,7 @@ Would you like to more actively participate by sharing your stories and insights
 
 Please do not hesitate to send us a pitch of your session via the link below.
 
-As a speaker you will of-course receive a free conference ticket with everything included. We are also able to pay your flight to & from Copenhagen and will be inviting you to a speaker dinner held with the organisers the evening before event start.
+As a speaker, you will, of course, receive a free conference ticket with everything included. We are also able to pay your flight to & from Copenhagen and will be inviting you to a speaker dinner held with the organizers the evening before event start.
 
 p(Button). "Pitch":SessionPitch
 
