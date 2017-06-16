@@ -114,10 +114,14 @@ p(text-dk). As a speaker, you will, of course, receive a free conference ticket 
                     <div class="col-md-4 text-right">
                         <h4 class="row text-muted-dk">Pitch Your Session</h4>
                         <div class="row">
-                        <span class="text-muted-dk">Interested in speaking at Game AI North? <br> Please fill out our official "submission form":Pitch. </span>
+
+%(text-muted-dk)Interested in speaking at Game AI North? <br> Please fill out our official "submission form":Pitch.%
+
                         </div>
                         <span class="row" style="padding-right:2em;">
-                            "<img src="resources/images/formicon.svg" width="100">":Pitch
+
+"<img src="resources/images/formicon.svg" width="100">":Pitch
+
                         </span>
                     </div>
                 </div>
