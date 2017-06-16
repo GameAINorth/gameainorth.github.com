@@ -1,6 +1,8 @@
 gems:
  - jekyll-textile-converter
 name: Game AI North
+description: Game AI North is 2 Days of Talks on Design, Systems, and Production - Copenhagen, October 16-17 2017
+url: http://GameAINorth.com
 permalink: pretty
 redcloth:
   hard_breaks: false

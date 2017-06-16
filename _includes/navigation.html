@@ -1,0 +1,30 @@
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top">
+	<div class="container">
+		<div class="navbar-header page-scroll">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+{% for hash in page.navigation %}
+	{% for item in hash %}
+				<span class="icon-bar"></span>
+	{% endfor %}
+{% endfor %}
+			</button>
+			<a class="navbar-brand page-scroll" href="#page-top"><img src="resources/images/g_ai_n_small_logo.svg" width="90" height="30" alt="Game AI North" longdesc="The Game AI North logo - stylized crop of the letters GAIN."></a>
+		</div>
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li class="hidden">
+					<a href="#page-top"></a>
+				</li>
+{% for hash in page.navigation %}
+	{% for item in hash %}
+		<li>
+			<a class="page-scroll" href="#{{ item[0] }}">{{ item[1] }}</a>
+		</li>
+	{% endfor %}
+{% endfor %}
+			</ul>
+		</div>
+	</div>
+</nav>
