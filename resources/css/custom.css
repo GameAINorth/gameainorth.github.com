@@ -1,0 +1,29 @@
+.organizer-box
+{
+	float: left;
+	clear: none;
+	padding-right: 20px;
+}
+
+.organizer-image
+{
+	display: block;
+	float: left;
+	margin-right: 10px;
+
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	overflow:hidden;
+}
+
+.organizer-image img
+{
+	width: 40px;
+	height: 40px;
+}
+
+.organizer-name
+{
+	float: right;
+}

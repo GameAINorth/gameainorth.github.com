@@ -135,6 +135,12 @@ p(text-dk). As a speaker, you will, of course, receive a free conference ticket 
 
 p(text-lg). As organizers, we are a small group of industry experts in the field of game & -AI development, with organizer experience from events such as Unite, nucl.ai, Nordic Game Jam, and others. Our goal with this event is to help provide a useful anchor for the game AI community in Europe and its neighbors. The event is run non-profit, and it is our hope that we can help keep the community stirring and perhaps help bridge to further community events.
 
+			<br>
+
+{% for organizer in site.organizers %}
+p(organizer-box). %(organizer-image)"!resources/images/{{ organizer.image }}({{ organizer.name }})!":http://twitter.com/{{ organizer.twitter }}% %(organizer-name){{ organizer.name }}<br>"@{{ organizer.twitter }}":http://twitter.com/{{ organizer.twitter }}%
+{% endfor %}
+
             <br>
             </div>
             <div class="text-center">
