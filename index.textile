@@ -33,7 +33,7 @@ p(text-dk). It is our pleasure to welcome you to Game AI North — a two-day con
 
 h3(text-dk). Calling All Speakers
 
-p(text-dk). <em>June 16th, 2017 —</em> We're currently taking submissions from speakers interested in presenting at Game AI North. Have something to say? <a class="page-scroll" href="#speak">Let us know!</a>.
+p(text-dk). <em>June 16th, 2017 —</em> We're currently taking submissions from speakers interested in presenting at Game AI North. Have something to say? <a class="page-scroll" href="#speak">Let us know!</a>
 
                         <br><br>
                     </div>
