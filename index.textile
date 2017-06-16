@@ -114,10 +114,10 @@ p(text-dk). As a speaker, you will, of course, receive a free conference ticket 
                     <div class="col-md-4 text-right">
                         <h4 class="row text-muted-dk">Pitch Your Session</h4>
                         <div class="row">
-                        <span class="text-muted-dk">Interested in speaking at Game AI North? <br> Please fill out our official <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTVZi4c2MQVzBQKJRl-oaVo0RxsQKM_s5L9Uj1XpxXNBU1Fw/viewform?usp=sf_link">submission form</a>. </span>
+                        <span class="text-muted-dk">Interested in speaking at Game AI North? <br> Please fill out our official "submission form":Pitch. </span>
                         </div>
                         <span class="row" style="padding-right:2em;">
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTVZi4c2MQVzBQKJRl-oaVo0RxsQKM_s5L9Uj1XpxXNBU1Fw/viewform?usp=sf_link"><img width="100" src="resources/images/formicon.svg"></a>
+                            "<img src="resources/images/formicon.svg" width="100">":Pitch
                         </span>
                     </div>
                 </div>
@@ -151,3 +151,4 @@ p(organizer-box). %(organizer-image)"!resources/images/{{ organizer.image }}({{ 
 
 [ITU]https://en.itu.dk
 [Twitter]http://twitter.com/GameAINorth
+[Pitch]https://docs.google.com/forms/d/e/1FAIpQLSdTVZi4c2MQVzBQKJRl-oaVo0RxsQKM_s5L9Uj1XpxXNBU1Fw/viewform?usp=sf_link
