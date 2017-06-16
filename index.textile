@@ -1,5 +1,5 @@
 ---
-title: "Game AI North - Copenhagen, October 16/17 2017"
+title: "Game AI North - Copenhagen, October 17/18 2017"
 layout: base
 navigation:
  - welcome: Welcome
@@ -33,7 +33,7 @@ p(text-dk). It is our pleasure to welcome you to Game AI North — a two-day con
 
 h3(text-dk). Calling All Speakers
 
-p(text-dk). <em>June 15th, 2017 —</em> We're currently taking submissions from speakers interested in presenting at Game AI North. Have something to say? <a class="page-scroll" href="#speak">Let us know!</a>.
+p(text-dk). <em>June 16th, 2017 —</em> We're currently taking submissions from speakers interested in presenting at Game AI North. Have something to say? <a class="page-scroll" href="#speak">Let us know!</a>.
 
                         <br><br>
                     </div>
@@ -45,7 +45,7 @@ h4(row text-muted-dk p-name). Game AI North
 
 	                        <span class="text-muted-dk">Mark your calendar for <span class="p-summary">2 days of talks<br>on design, systems, and production</span>.</span>
 	                        <br><br>
-	                        <span class="text-muted-dk"><time class="dtstart" datetime="2017-10-16">October 16</time>-<time class="dtend" datetime="2017-10-17">17</time>, 2017</span>
+	                        <span class="text-muted-dk"><time class="dtstart" datetime="2017-10-17">October 17</time>-<time class="dtend" datetime="2017-10-18">18</time>, 2017</span>
 
                         </div>
                         <div class="row">
@@ -75,7 +75,7 @@ h2(section-heading). Attend
                     </div>
                     <div class="col-md-8 text-left">
 
-p(text-lg). Game AI North will be held at the "IT University of Copenhagen":ITU on October 16th and 17th, 2017.
+p(text-lg). Game AI North will be held at the "IT University of Copenhagen":ITU on October 17th and 18th, 2017.
 
 p(text-lg). The two days hold a full schedule of sessions and include lunch. The program starts each day at 09:00 with coffee & networking (+ registration on day one) and concludes at approximately 17:00 in the evening.
 
