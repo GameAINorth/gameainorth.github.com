@@ -1,0 +1,12 @@
+{
+	"title": "Building a Scalable Query System for Evaluating Complex Game Environments",
+	"title2": "",
+	"description": "In his talk, Christian will provide practical insights into Crytek's Universal Query System.
+Learn how this fully customizable generic system for doing spatial queries was built from the ground up, how it works, and how it can be used by AI characters and gameplay systems in general.
+In particular, the audience will gain an in-depth understanding of the architectural decisions and design considerations that went into the development of this system.
+Also, the talk will explore how queries can be debugged and how programmers and designers alike can analyze the decisions that were made throughout a query.",
+	"profiles":
+	[
+		"Christian Werle"
+	]
+}

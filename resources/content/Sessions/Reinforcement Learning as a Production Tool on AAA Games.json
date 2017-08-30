@@ -1,0 +1,10 @@
+{
+	"title": "Reinforcement Learning as a Production Tool on AAA Games",
+	"title2": "",
+	"description": " - Demonstration that RL can learn to play AAA video games – at least when it comes to “reactive” gameplay that does not require long term planning nor high-level understanding of the world\n - How to interface RL algorithms with a modern game engine\n - Which algorithms you should use (or not), and why\n - How such RL agents can help productions during a game's development\n - What can go wrong and how to avoid it",
+	"profiles":
+	[
+		"Olivier Delalleau",
+		"Adrien Logut"
+	]
+}

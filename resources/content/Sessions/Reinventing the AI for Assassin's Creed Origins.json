@@ -1,0 +1,9 @@
+{
+	"title": "Reinventing the AI for Assassin's Creed Origins",
+	"title2": "",
+	"description": "Our goal with Assassin's Creed Origins has been to modernize the franchise and reinventing our AI was a focal point towards reaching this objective. This challenged our team to deliver systems to make the citizens of Egypt feel like they have an agenda in the world beyond the Player. However, there are many challenges in both design and programming that we had to tackle to accomplish this goal. We had to find a way to make every AI do something coherent beyond player centric reactions at all time, make our reaction system adapt more based on what our AI previously experienced and make the search loop more about outsmarting a group rather singular AIs.",
+	"profiles":
+	[
+		"Brian Fillion"
+	]
+}

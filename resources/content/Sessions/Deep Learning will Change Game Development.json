@@ -1,0 +1,9 @@
+{
+	"title": "Deep Learning will Change Game Development",
+	"title2": "",
+	"description": "The field called deep learning, i.e. methods using deep neural networks, has seen explosive progress in the last couple of years. Neural nets has enabled significant breakthroughs in everything from computer vision, voice generation, voice recognition, translation, and self-driving cars. Neural nets will also be an amazing enabler for game development. This presentation will give an overview of the potential of neural nets as game making tools, as well as provide an in depth look at how we can use neural nets combined with reinforcement learning for new types of game AI.",
+	"profiles":
+	[
+		"Magnus Nordin"
+	]
+}
