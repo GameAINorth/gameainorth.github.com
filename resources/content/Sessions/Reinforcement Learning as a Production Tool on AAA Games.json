@@ -1,7 +1,7 @@
 {
 	"title": "Reinforcement Learning as a Production Tool on AAA Games",
 	"title2": "",
-	"description": " - Demonstration that RL can learn to play AAA video games – at least when it comes to “reactive” gameplay that does not require long term planning nor high-level understanding of the world\n - How to interface RL algorithms with a modern game engine\n - Which algorithms you should use (or not), and why\n - How such RL agents can help productions during a game's development\n - What can go wrong and how to avoid it",
+	"description": "Reinforcement Learning (RL) has long been popular in academic research on game AI, but is much less commonly applied to AAA games. This talk will present an initiative within Ubisoft Montreal to use RL as a tool for game productions, by building agents that are able to play (parts of) the game during its development. Preliminary results for two applications will be shown: learning a fighting AI in For Honor to assist with game balancing and new character development, and learning a driving AI in Watch_Dogs to help reach realistic behavior with a large variety of vehicles. The talk will cover the challenges we faced when applying state-of-the-art RL algorithms to modern games, the main lessons learned, and how this project was actually helpful (or not) to designers, testers and programmers on the production floor. And, as a bonus, you may expect videos of games that look better than Pong or Doom for a change!",
 	"profiles":
 	[
 		"Olivier Delalleau",
