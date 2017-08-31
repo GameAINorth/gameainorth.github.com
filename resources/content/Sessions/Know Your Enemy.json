@@ -1,0 +1,9 @@
+{
+	"title": "Know Your Enemy",
+	"title2": "Getting to know the AI behind Halo Wars 2",
+	"description": "In this presentation Derek will describe the workings of the Commander AI of Halo Wars 2. He will talk about the design and implementation of this AI from the tactical through to the strategic level.",
+	"profiles":
+	[
+		"Derek Fagan"
+	]
+}

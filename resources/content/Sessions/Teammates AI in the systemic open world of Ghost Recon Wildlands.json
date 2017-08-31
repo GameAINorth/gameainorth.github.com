@@ -1,0 +1,10 @@
+{
+	"title": "Teammates AI in the systemic open world of Ghost Recon Wildlands",
+	"title2": "",
+	"description": "This presentation will cover the implementation of the AI teammates in the systemic open world of Ghost Recon Wildlands, in order for them to be reliable and engaging for the player. I’ll quickly introduce the mainly data-driven architecture before diving in the essentials systems ruling their behavior, designed under strong creative rules : How do they acquire information regarding their surroundings, and how do they react to it while taking in consideration the player’s situation, without hindering his experience.
+This presentation will show us how striking a balance between purely systemic solutions and constrained player-centric rules is key to obtain a satisfying result that makes sense from the player’s perspective.",
+	"profiles":
+	[
+		"Mathias Rolland"
+	]
+}

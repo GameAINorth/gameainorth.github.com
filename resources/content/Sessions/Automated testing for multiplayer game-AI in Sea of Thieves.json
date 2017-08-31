@@ -1,0 +1,9 @@
+{
+	"title": "Automated testing for multiplayer game-AI in Sea of Thieves",
+	"title2": "",
+	"description": "Sea of Thieves is a shared world pirate game with AI running on a dedicated server. In this talk Rob Masella will describe how Rare's extensive use of automated testing meant that Sea of Thieves could ship frequently and with confidence that AI agents would behave correctly in a number of challenging multiplayer scenarios. Rob will lay out the advantages of a good testing infrastructure, the ability to test multiplayer network interactions and, with lots of examples from Sea of Thieves development, talk about how the team used tests to find and fix a number of issues before they shipped to customers.",
+	"profiles":
+	[
+		"Robert Masella"
+	]
+}
