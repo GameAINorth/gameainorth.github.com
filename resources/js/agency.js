@@ -24,3 +24,13 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+$(function(){
+	$('.session-name').parent().bind('click', function(event) {
+		var $anchor = $(this).parent().parent();
+		$anchor.find('.content').slideToggle("slow");
+		$anchor.toggleClass( "session-collapsed" );
+		$anchor.toggleClass( "session-expanded" );
+		event.preventDefault();
+	});
+});

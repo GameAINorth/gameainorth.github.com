@@ -33,3 +33,112 @@
 	float: right;
 	width: 200px;
 }
+
+h3.session-name
+{
+	font-size: 18px;
+    color: #333;
+    line-height: 1.5em;
+    font-weight: bold;
+    padding-left: 2em;
+    margin-right: -15px;
+  	margin-left: -15px;
+  	text-align: left;
+  	display: inline-block;
+  	float: left;
+  	width: 80%;
+}
+
+h3.session-name .speaker
+{
+    color: #555;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 16px;
+}
+
+p.session-text
+{
+	padding-left: 2em;
+	font-size: 18px;
+    color: #111;
+    line-height: 1.5em;
+}
+
+h4.speaker-name
+{
+	padding-left: 2em;
+	font-size: 16px;
+    color: #555;
+    line-height: 1.5em;
+    font-weight: normal;
+}
+
+p.speaker-bio
+{
+	padding-left: 2em;
+	padding-bottom: 2em;
+	font-size: 18px;
+    color: #555;
+    line-height: 1.5em;
+}
+
+img.speaker-photo{
+	padding-left:0px; 
+	border: 1px solid #333;
+	width: 50%
+}
+
+h4.speaker-caption-name
+{
+	font-size: 16px;
+    color: #777;
+    line-height: 1.5em;
+    font-weight: normal;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    padding-top: 0.5em;
+}
+
+p.speaker-caption-title
+{
+	font-size: 15px;
+    color: #777;
+    line-height: 1em;
+    font-weight: normal;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+}
+
+.session-collapsed .content{
+	display: none;
+}
+
+.session-collapsed:hover {
+	background-color: #aaccff;
+}
+
+.session-collapsed .showmore{
+	display: inline-block;
+	font-size: 18px;
+    line-height: 1.5em;
+    margin-top: 1.5em;
+    color: #3ba0ff;
+}
+
+.session-expanded .showless {
+	display: inline-block;
+	font-size: 18px;
+    line-height: 1.5em;
+    margin-top: 1.5em;
+    color: #3ba0ff;
+}
+
+.session-expanded .showmore {
+	display:none;
+}
+
+.session-collapsed .showless {
+	display:none;
+}
+
