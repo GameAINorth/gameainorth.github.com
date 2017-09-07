@@ -1,0 +1,12 @@
+{
+	"title": "Putting the AI back into Air",
+	"title2": "Navigating the Air Space of Horizon Zero Dawn",
+	"description": "In this talk, we explain the technology behind the aerial navigation in Horizon Zero Dawn. In Horizon, we've represented the flyable air space by use of a run-time generated height map.
+Queries can be done on this height map for positional information and navigation. We present a hierarchical path planning algorithm for finding a progressively more detailed path between
+two points. Additionally, we will touch on some gameplay related subjects, to show the additional challenges we faced in implementing the different flying behaviors, such as transitioning
+from air to ground and guided crash-landing.",
+	"profiles":
+	[
+		"Wouter Josemans"
+	]
+}
