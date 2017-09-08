@@ -1,0 +1,9 @@
+{
+	"title": "The AI of Horizon Zero Dawn",
+	"title2": "",
+	"description": "For Guerrilla, Horizon Zero Dawn was a massive change in direction. Transitioning from the level-based, tactical, first person shooter genre to open world, action RPG required us to develop many new systems and to redesign existing ones. In this session we will describe the challenges we faced when developing the AI for Horizon Zero Dawn and the solutions we chose. Some of the subjects we will cover are navigation for agents of varying size in a dynamic environment, how we use a combination of HTN planning and utility based decision making, and the systems we developed to coordinate groups of agents.",
+	"profiles":
+	[
+		"Arjen Beij "
+	]
+}
