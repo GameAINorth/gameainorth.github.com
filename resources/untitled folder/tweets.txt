@@ -1,0 +1,29 @@
+img:adm
+Come to #gain17 to learn about #gameai that offers a challenge while maintaining narrative coherence.  http://GameAINorth.com/#adm 
+
+img:at
+Learn to ship frequently and with confidence that #gameai agents behave correctly at #gain17. http://GameAINorth.com/#at
+
+img:bsqs
+Are you a #gameai developer? Gain deep insight into Crytek's Universal Query System at #gain17. http://GameAINorth.com/#bsqs
+
+img:dlcgd
+Come to #gain17 on October 17-18 to explore the potential of neural networks as #gamedev tools. http://GameAINorth.com/#dlcgd
+
+img:ddai
+Learn to build #gameai architecture with performance and user moddability in mind at #gain17. http://GameAINorth.com/#ddai
+
+img:kye
+Get to know the Commander AI of Halo Wars 2 at #gain17. http://GameAINorth.com/#kye #gamedev #gameai
+
+img:mff
+At #gain17 we’ll be looking at designing #gameai to handle extreme scale and complexity. http://GameAINorth.com/#mff
+
+img:rlpt
+Come to #gain17 to learn how reinforcement learning can be applied to AAA games. http://GameAINorth.com/#rlpt #gamedev #gameai
+
+img:rai
+See how #gameai was a focal point towards modernizing the Assassin's Creed franchise at #gain17. http://GameAINorth.com/#rai
+
+img:tai
+Learn about the implementation of #gameai teammates that are reliable and engaging for the player at #gain17. http://GameAINorth.com/#tai

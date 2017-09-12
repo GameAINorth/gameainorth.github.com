@@ -26,6 +26,15 @@ $('.navbar-collapse ul li a').click(function() {
 });
 
 $(function(){
+    var hash = window.location.hash.substr(1);
+    if ( hash == 'adm' || hash == 'at' || hash=='bsqs' || hash=='dlcgd' || hash=='ddai' || hash=='kye' || hash=='mff' || hash=='rlpt' || hash=='rai' || hash=='tai'){
+        var $session = $('#'+hash);
+        $session.toggleClass("session-collapsed");
+        $session.toggleClass("session-expanded");
+        $('html, body').stop().delay(100).animate({
+            scrollTop: '-=100px'
+        }, 1500, 'easeInOutExpo');
+    }
 	$('.session-name').parent().bind('click', function(event) {
 		var $anchor = $(this).parent().parent();
 		$anchor.find('.content').slideToggle("slow");
