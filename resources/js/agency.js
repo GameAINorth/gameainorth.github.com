@@ -27,7 +27,7 @@ $('.navbar-collapse ul li a').click(function() {
 
 $(function(){
     var hash = window.location.hash.substr(1);
-    if ( hash == 'adm' || hash == 'at' || hash=='bsqs' || hash=='dlcgd' || hash=='ddai' || hash=='kye' || hash=='mff' || hash=='rlpt' || hash=='rai' || hash=='tai'){
+    if ( hash == 'adm' || hash == 'at' || hash=='bsqs' || hash=='dlcgd' || hash=='ddai' || hash=='kye' || hash=='mff' || hash=='rlpt' || hash=='rai' || hash=='tai' || hash=='aihzd' || hash=='mxrl' || hash=='paiba'){
         var $session = $('#'+hash);
         $session.toggleClass("session-collapsed");
         $session.toggleClass("session-expanded");
