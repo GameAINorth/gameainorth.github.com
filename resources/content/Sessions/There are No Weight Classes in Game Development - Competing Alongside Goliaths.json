@@ -1,7 +1,7 @@
 {
 	"title": "There are No Weight Classes in Game Development",
 	"title2": "Competing Alongside Goliaths",
-	"description": "There are no weight classes in game development.  There’s no division to keep the fights fair.  You, your team, or your studio are going to be competing with games from vastly different team sizes, with vastly different budgets.  You can use UI, AI, and performance tricks to make your games stand out among those from Goliath teams.",
+	"description": "There are no weight classes in game development.  There’s no division to keep the fights fair.  You, your team, or your studio are going to be competing with games from vastly different team sizes, with vastly different budgets.  You can use UI, AI, and performance tricks to make your games stand out among those from Goliath teams. In Race for the Galaxy, our neural network creates its own training data with which to hone itself. We run our AIs on a separate thread, to keep framerate up while it's executing. We conduct the flow of UI events through locking attention tokens to make a complex system intuitive. A few smart innovations can give a small team the edge to stand out in the ring.",
 	"profiles":
 	[
 		"Theresa Duringer"
