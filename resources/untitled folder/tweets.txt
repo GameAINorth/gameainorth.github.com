@@ -40,3 +40,6 @@ Discover the role of #gameAI in bringing about truly immersive Mixed Reality exp
 img:paiba
 Learn about the #gameAI technology behind the aerial navigation in Horizon Zero Dawn at #gain17. http://GameAINorth.com/#paiba
 
+
+img:nwc
+See how a few smart #gamedev and #gameAI innovations can give your small team the edge at #gain17. http://GameAINorth.com/#nwc
