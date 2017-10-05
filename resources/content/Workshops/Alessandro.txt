@@ -1,0 +1,16 @@
+Schedule:
+- Case study presentation (30 minutes)
+- Overview of Gephi and SNA metrics (10 minutes)
+- Collaborative workshop about identifying additional variables
+
+Abstract:
+The game industry is experiencing a paradigm shift that no longer sees games as products but rather as services (for example Destiny, Tom Clancy's The Division). This shift entails a different way to understand, contextualize and act on player behavior: the social dimension of play and the communities of players become fundamental pillars upon which games can lay the foundations of an extended lifetime.
+Adopting methods and tools from social network analysis and graph theory, data analysts at Ubisoft explored the communities playing Tom Clancy’s The Division. The intent was to identify players that are central to the multiplayer features of the game; players can in fact create groups of 4 people to experience the game in co-op.
+At Massive Entertainment we explored the communities playing TCTD using tools from social network analysis. Initially a random sample of players was selected, looking for people with at least 50 hours playtime, at least 10 friends and that played in groups at least twice in the last week. Using modularity analysis, the initial network of 2102 players is then subdivided in 94 sub-communities, 55 are peripheral, but the remaining are all tightly connected, showing that the 49 players controlling the most central communities can reach a network of 16.742 players.
+We analyzed also forum posting behavior discovering that these 49 players create forum posts 22 times more frequently than the average player.
+Lastly we examined the gamescape of these 49 players: which games they owned and wich games they played most frequently. We discovered that these players are the invisible backbone of a game community, not as noticeable as twitch streamers or YouTube personalities, but even more essential to the health of a game’s community.
+Summarizing the findings, analysts discovered that these players are the invisible backbone of a game community, not as noticeable as twitch streamers or YouTube personalities, but even more essential to the health of a game’s community.
+
+Contributions:
+Applying social network analysis tools to understand the communities around live games. 
+The insight that a small group of people have a strong influence on the communities. (the invisible influencer)
