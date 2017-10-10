@@ -1,7 +1,7 @@
 {
 	"title": "Digging Dwarf AI",
-	"title2": "Building a performant and extensible AI architecture",
-	"description": "This presentation provides a practical look into how a game with autonomous agents can be built on an Entity Component Systems architecture. It will also show how to build a tile-based, dynamic, platformer-style map where agents can smoothly traverse it using many different methods of movement. The game runs on an inhouse C/C++ engine and it will be shown how all parts of the AI has been built with performance and user moddability in mind.",
+	"title2": "Building an extensible AI architecture",
+	"description": "This presentation provides a practical look into how Warpzone Studios is building a game with autonomous agents on an Entity Component Systems architecture. Specifically it will delve into how the AI fits into that. The presentation will also go into detail about how a tile-based, platformer-style map with destructible terrain affects decision making, path finding and movement. Moddability has been a large focus on the development of the engine and the game architecture. The talk will show how all parts of the AI are extensible.",
 	"profiles":
 	[
 		"Anders Elfgren"
