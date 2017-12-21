@@ -91,9 +91,9 @@ span.speaker-area{
 }
 
 img.speaker-photo{
-    zoom: 50%;
     border: 1px solid #333;
-
+    width: 150px;
+    height: 150px;
 }
 
 h4.speaker-caption-name
